@@ -12,6 +12,7 @@
       },
       "id": "1",
       "properties": {
+        "Periode" : "1989-1992",
         "Naam": "Kantoorgebouw Heerlen"
       },
       "type": "Feature"
@@ -27,6 +28,7 @@
       },
       "id": "2",
       "properties": {
+        "Periode" : "1979-1983",
         "Naam": "Kantoorgebouw EGM"
       },
       "type": "Feature"
@@ -42,6 +44,7 @@
       },
       "id": "3",
       "properties": {
+      	"Periode" : "1973-1976",
         "Naam": "Hoofdkantoor Suikerunie"
       },
       "type": "Feature"
@@ -57,6 +60,7 @@
       },
       "id": "4",
       "properties": {
+      	"Periode" : "1973-1976",
         "Naam": "Kantoorgebouw V.O.M."
       },
       "type": "Feature"
@@ -72,6 +76,7 @@
       },
       "id": "5",
       "properties": {
+        "Periode" : "2012-2014",
         "Naam": "Uyllanderbrug"
       },
       "type": "Feature"
@@ -87,6 +92,7 @@
       },
       "id": "6",
       "properties": {
+      	"Periode" : "2001-2004",
         "Naam": "Benno Premselabrug"
       },
       "type": "Feature"
@@ -102,6 +108,7 @@
       },
       "id": "7",
       "properties": {
+      	"Periode" : "1996-1999",
         "Naam": "Expositiegebouw Pon Beheer"
       },
       "type": "Feature"
@@ -117,6 +124,7 @@
       },
       "id": "8",
       "properties": {
+        "Periode" : "1998-2000",
         "Naam": "Dr. A. Heijn-gebouw, Universiteit Nyenrode"
       },
       "type": "Feature"
@@ -148,6 +156,7 @@
       },
       "id": "10",
       "properties": {
+      	"Periode" : "1992-1997",
         "Naam": "Hoofdkantoor NV Luchthaven Schiphol"
       },
       "type": "Feature"
@@ -163,6 +172,7 @@
       },
       "id": "11",
       "properties": {
+      	"Periode" : "1990-1994",
         "Naam": "Museum Beelden aan Zee"
       },
       "type": "Feature"
@@ -258,6 +268,7 @@
       },
       "id": "17",
       "properties": {
+        "Periode" : "1982-1987",
         "Naam": "Nieuwbouw en renovatie Noordbrabants Museum"
       },
       "type": "Feature"
@@ -353,6 +364,7 @@
       },
       "id": "23",
       "properties": {
+        "Periode" : "1992-1995",
         "Naam": "Cobra Museum"
       },
       "type": "Feature"
@@ -368,6 +380,7 @@
       },
       "id": "24",
       "properties": {
+        "Periode" : "1991-1995",
         "Naam": "Maeslantkering"
       },
       "type": "Feature"
@@ -383,6 +396,7 @@
       },
       "id": "25",
       "properties": {
+      	"Periode" : "1987-1991",
         "Naam": "Kantoorgebouw Robeco"
       },
       "type": "Feature"
@@ -398,7 +412,9 @@
       },
       "id": "26",
       "properties": {
-        "Naam": "J.P. Morgan Bank"
+      	"Periode" : "1987-1990",
+        "Naam": "J.P. Morgan Bank",
+        "Gesloopt" : "Ja"
       },
       "type": "Feature"
     },
@@ -413,6 +429,7 @@
       },
       "id": "27",
       "properties": {
+        "Periode" : "1970-1977",
         "Naam": "Uitbreiding Kröller-Müller Museum"
       },
       "type": "Feature"
@@ -428,6 +445,7 @@
       },
       "id": "28",
       "properties": {
+        "Periode" : "1969-1974",
         "Naam": "Waterwinbedrijf Petrusplaat"
       },
       "type": "Feature"
@@ -443,6 +461,7 @@
       },
       "id": "29",
       "properties": {
+        "Periode" : "1959-1965",
         "Naam": "Drinkwaterproduktiebedrijf Berenplaat"
       },
       "type": "Feature"
@@ -458,22 +477,8 @@
       },
       "id": "30",
       "properties": {
+        "Periode" : "1975-1980",
         "Naam": "Duits-Nederlandse Windtunnel"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          5.30469,
-          51.68658,
-          0
-        ],
-        "type": "Point"
-      },
-      "id": "31",
-      "properties": {
-        "Naam": "Noordbrabants Museum"
       },
       "type": "Feature"
     },
@@ -488,6 +493,7 @@
       },
       "id": "32",
       "properties": {
+        "Periode" : "1973-1977",
         "Naam": "Drinkwaterproduktiebedrijf Kralingen"
       },
       "type": "Feature"
@@ -503,6 +509,7 @@
       },
       "id": "33",
       "properties": {
+        "Periode" : "1978-1982",
         "Naam": "Scheepsbouwloods van der Giessen-De Noord"
       },
       "type": "Feature"
@@ -518,6 +525,7 @@
       },
       "id": "34",
       "properties": {
+        "Periode" : "1968-1970",
         "Naam": "Watertoren"
       },
       "type": "Feature"
@@ -565,6 +573,7 @@
       },
       "id": "37",
       "properties": {
+        "Periode" : "1980-1983, 1990-1994",
         "Naam": "Kantoren Wegener"
       },
       "type": "Feature"
@@ -580,6 +589,7 @@
       },
       "id": "38",
       "properties": {
+        "Periode" : "1992-1994",
         "Naam": "Hoofdkantoor GUO"
       },
       "type": "Feature"
@@ -595,8 +605,9 @@
       },
       "id": "39",
       "properties": {
-        "Periode": "Renovatie Koen van Velsen",
-        "Naam": "Hoofdkantoor Woonzorg"
+        "Periode" : "1968-1970",
+        "Naam": "Hoofdkantoor Woonzorg",
+        "Renovatie": "Koen van Velsen"
       },
       "type": "Feature"
     },
