@@ -1,6 +1,6 @@
 // Initialize the map and set the view
 
-var map = L.map('map').setView([52.18, 5.32], 8);
+var map = L.map('map').setView([52.18, 5.32], 7);
 
 // Add OSM
 
