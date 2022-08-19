@@ -1,20 +1,25 @@
-# De ontwerpen van architect Wim Quist (1930-2022) op de kaart
+# Mapping Quist
 
-Bronbestand:
+Map of buildings designed by Dutch architect Wim Quist (1930-2022).
 
-- [quist.geojson](https://github.com/sammeltassen/quist-kaart/blob/main/quist.geojson)
+View the map:
 
-Bewerken:
+- [Mapping Quist](https://sammeltassen.nl/mapping-quist/)
 
-- [geojson.org](http://geojson.io/#data=data:text/x-url,https://raw.githubusercontent.com/sammeltassen/quist-kaart/main/quist.geojson)
+GeoJSON source file:
 
-Embedden:
+- [buildings.geojson](https://github.com/sammeltassen/quist-kaart/blob/main/buildings.geojson)
 
-`<script src="https://embed.github.com/view/geojson/sammeltassen/quist-kaart/main/quist.geojson"></script>`
+Edit the file directly:
 
-Opmerkingen:
-- De kaart is onvolledig: van verschillende gebouwen is de locatie (nog) niet vastgesteld. Dit geldt bijvoorbeeld voor gesloopte gebouwen en woonhuizen.
+- [geojson.org](http://geojson.io/#data=data:text/x-url,https://raw.githubusercontent.com/sammeltassen/quist-kaart/main/buildings.geojson)
 
-Gebruikte bron:
+Embed the map:
 
+`<iframe src="https://sammeltassen.nl/mapping-quist/" title="Mapping Quist" width="100%" height="300" style="border:none;"></iframe>`
+
+Notes:
+- The map is still incomplete. Some buildings haven been demolished or it's hard to determine the exact locations (for e.g. housing projects).
+
+Sources used:
 - Auke van der Woud (2008) Wim Quist. De magie van de ratio (Maastricht: Pale Pink Publishers), pp. 621-623.
