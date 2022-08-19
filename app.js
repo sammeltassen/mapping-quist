@@ -42,7 +42,7 @@ function onEachFeature(feature, layer) {
 
 async function addGeoJson() {
     // Load geojson from other file
-    const response = await fetch("/buildings.geojson");
+    const response = await fetch("buildings.geojson");
     const data = await response.json();
     L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
