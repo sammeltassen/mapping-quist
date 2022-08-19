@@ -1,1 +1,652 @@
-{"type":"FeatureCollection","features":[{"geometry":{"coordinates":[5.972587,50.888429,0],"type":"Point"},"id":"1","properties":{"creationDate":"2022-07-23T08:44:30Z","title":"Kantoorgebouw"},"type":"Feature"},{"geometry":{"coordinates":[4.648686,51.807147,0],"type":"Point"},"id":"2","properties":{"creationDate":"2022-07-22T22:12:46Z","title":"Kantoorgebouw EGM"},"type":"Feature"},{"geometry":{"coordinates":[4.74972,51.5838,0],"type":"Point"},"id":"3","properties":{"creationDate":"2022-07-22T22:06:08Z","title":"Hoofdkantoor Suikerunie"},"type":"Feature"},{"geometry":{"coordinates":[5.978575,51.985536,0],"type":"Point"},"id":"4","properties":{"creationDate":"2022-07-22T21:56:38Z","title":"Kantoorgebouw V.O.M."},"type":"Feature"},{"geometry":{"coordinates":[5.00897,52.336685,0],"type":"Point"},"id":"5","properties":{"creationDate":"2022-07-22T21:35:40Z","title":"Uyllanderbrug"},"type":"Feature"},{"geometry":{"coordinates":[5.01595,52.346647,0],"type":"Point"},"id":"6","properties":{"creationDate":"2022-07-22T21:29:34Z","title":"Benno Premselabrug"},"type":"Feature"},{"geometry":{"coordinates":[5.416722,52.122759,0],"type":"Point"},"id":"7","properties":{"creationDate":"2022-07-22T21:18:40Z","title":"Expositiegebouw Pon Beheer"},"type":"Feature"},{"geometry":{"coordinates":[5.006515,52.160836,0],"type":"Point"},"id":"8","properties":{"creationDate":"2022-07-22T21:09:29Z","title":"Dr. A. Heijn-gebouw, Universiteit Nyenrode"},"type":"Feature"},{"geometry":{"coordinates":[4.748095,52.086247,0],"type":"Point"},"id":"9","properties":{"creationDate":"2022-07-22T20:53:38Z","description":"1995-1998","title":"Gemeentehuis Bodegraven"},"type":"Feature"},{"geometry":{"coordinates":[4.74763,52.304153,0],"type":"Point"},"id":"10","properties":{"creationDate":"2022-07-22T20:46:21Z","title":"Hoofdkantoor NV Luchthaven Schiphol"},"type":"Feature"},{"geometry":{"coordinates":[4.2779,52.110872,0],"type":"Point"},"id":"11","properties":{"creationDate":"2022-07-22T20:36:49Z","title":"Museum Beelden aan Zee"},"type":"Feature"},{"geometry":{"coordinates":[4.524446,51.915908,0],"type":"Point"},"id":"12","properties":{"creationDate":"2022-07-22T20:14:34Z","description":"1990-1992","title":"M-gebouw, Erasmus Universiteit"},"type":"Feature"},{"geometry":{"coordinates":[4.526775,51.916532,0],"type":"Point"},"id":"13","properties":{"creationDate":"2022-07-22T20:13:09Z","description":"1987-1991","title":"L-gebouw, Erasmus Universiteit"},"type":"Feature"},{"geometry":{"coordinates":[5.54478,52.331545,0],"type":"Point"},"id":"14","properties":{"creationDate":"2022-07-22T18:29:22Z","description":"1983-1987","title":"Raadhuis Zeewolde"},"type":"Feature"},{"geometry":{"coordinates":[4.490073,51.916906,0],"type":"Point"},"id":"15","properties":{"creationDate":"2022-07-22T18:24:32Z","description":"1982-1988","title":"Kantoorgebouw Willemswerf"},"type":"Feature"},{"geometry":{"coordinates":[4.474049,51.920167,0],"type":"Point"},"id":"16","properties":{"creationDate":"2022-07-22T18:23:24Z","description":"1982-1988","title":"Schouwburg Rotterdam"},"type":"Feature"},{"geometry":{"coordinates":[5.30469,51.68658,0],"type":"Point"},"id":"17","properties":{"creationDate":"2022-07-22T18:21:42Z","title":"Nieuwbouw en renovatie Noordbrabants Museum"},"type":"Feature"},{"geometry":{"coordinates":[4.885292,52.359999,0],"type":"Point"},"id":"18","properties":{"creationDate":"2022-07-22T18:20:33Z","description":"1981-1995","title":"Renovatie Rijksmuseum"},"type":"Feature"},{"geometry":{"coordinates":[4.482067,51.91761,0],"type":"Point"},"id":"19","properties":{"creationDate":"2022-07-22T18:19:24Z","description":"1981-1986","title":"Maritiem Museum"},"type":"Feature"},{"geometry":{"coordinates":[4.281046,52.088811,0],"type":"Point"},"id":"20","properties":{"creationDate":"2022-07-22T18:12:04Z","description":"1977-1985","title":" Museon en Omniversum"},"type":"Feature"},{"geometry":{"coordinates":[4.485267,51.921813,0],"type":"Point"},"id":"21","properties":{"creationDate":"2022-07-22T18:02:46Z","description":"1976-1981","title":"Aanbouw Laurenskerk"},"type":"Feature"},{"geometry":{"coordinates":[4.437701,51.921605,0],"type":"Point"},"id":"22","properties":{"creationDate":"2022-07-22T18:00:01Z","description":"1960-63","title":"Verkeersbrug Beukelsdijk"},"type":"Feature"},{"geometry":{"coordinates":[4.85798,52.3038,0],"type":"Point"},"id":"23","properties":{"creationDate":"2018-11-16T11:18:10Z","title":"Cobra Museum"},"type":"Feature"},{"geometry":{"coordinates":[4.163761,51.957241,0],"type":"Point"},"id":"24","properties":{"creationDate":"2018-11-16T11:13:54Z","title":"Maeslantkering"},"type":"Feature"},{"geometry":{"coordinates":[4.48163,51.918498,0],"type":"Point"},"id":"25","properties":{"creationDate":"2018-11-16T11:09:02Z","title":"Kantoorgebouw Robeco"},"type":"Feature"},{"geometry":{"coordinates":[4.870412,52.35011,0],"type":"Point"},"id":"26","properties":{"creationDate":"2018-11-16T11:06:18Z","title":"J.P. Morgan Bank"},"type":"Feature"},{"geometry":{"coordinates":[5.817449,52.095835,0],"type":"Point"},"id":"27","properties":{"creationDate":"2018-11-16T10:32:08Z","title":"Uitbreiding Kröller-Müller Museum"},"type":"Feature"},{"geometry":{"coordinates":[4.772075,51.761603,0],"type":"Point"},"id":"28","properties":{"creationDate":"2018-11-16T10:31:03Z","title":"Waterwinbedrijf Petrusplaat"},"type":"Feature"},{"geometry":{"coordinates":[4.393575,51.835794,0],"type":"Point"},"id":"29","properties":{"creationDate":"2018-11-16T10:27:05Z","title":"Drinkwaterproduktiebedrijf Berenplaat"},"type":"Feature"},{"geometry":{"coordinates":[5.92678,52.67547,0],"type":"Point"},"id":"30","properties":{"creationDate":"2018-11-16T10:34:55Z","title":"Duits-Nederlandse Windtunnel"},"type":"Feature"},{"geometry":{"coordinates":[5.30469,51.68658,0],"type":"Point"},"id":"31","properties":{"creationDate":"2018-11-16T10:41:31Z","title":"Noordbrabants Museum"},"type":"Feature"},{"geometry":{"coordinates":[4.53851,51.90639,0],"type":"Point"},"id":"32","properties":{"creationDate":"2018-11-16T10:33:47Z","title":"Drinkwaterproduktiebedrijf Kralingen"},"type":"Feature"},{"geometry":{"coordinates":[4.56832,51.90851,0],"type":"Point"},"id":"33","properties":{"creationDate":"2018-11-16T10:37:21Z","title":"Scheepsbouwloods van der Giessen-De Noord"},"type":"Feature"},{"geometry":{"coordinates":[5.465372,51.417159,0],"type":"Point"},"id":"34","properties":{"creationDate":"2018-11-16T10:30:01Z","title":"Watertoren"},"type":"Feature"},{"geometry":{"coordinates":[3.711523,51.641007,0],"type":"Point"},"id":"35","properties":{"creationDate":"2022-07-22T18:14:23Z","description":"1980-1986","title":"Dienstgebouw Stormvloedkering Oosterschelde"},"type":"Feature"},{"geometry":{"coordinates":[4.954583,52.323867,0],"type":"Point"},"id":"36","properties":{"creationDate":"2022-07-22T20:05:20Z","description":"1987-1990","title":"Kantoorgebouw Randstad"},"type":"Feature"},{"geometry":{"coordinates":[5.935002,52.191851,0],"type":"Point"},"id":"37","properties":{"creationDate":"2022-07-23T08:58:16Z","title":"Kantoren Wegener"},"type":"Feature"},{"geometry":{"coordinates":[4.483947,52.046256,0],"type":"Point"},"id":"38","properties":{"creationDate":"2022-07-23T09:08:52Z","title":"Hoofdkantoor GUO"},"type":"Feature"},{"geometry":{"coordinates":[4.875996,52.317556,0],"type":"Point"},"id":"39","properties":{"creationDate":"2022-07-23T09:24:28Z","description":"Renovatie Koen van Velsen","title":"Hoofdkantoor Woonzorg"},"type":"Feature"},{"geometry":{"coordinates":[6.564334,52.994426,0],"type":"Point"},"id":"40","properties":{"creationDate":"2022-07-22T20:41:19Z","description":"1991-1995","title":"Arrondissementsrechtbank Assen"},"type":"Feature"},{"geometry":{"coordinates":[3.683132,51.607858,0],"type":"Point"},"id":"41","properties":{"creationDate":"2022-07-22T18:15:02Z","description":"1978-1986","title":"Stormvloedkering Oosterschelde"},"type":"Feature"},{"geometry":{"coordinates":[4.478338,51.921701,0],"type":"Point"},"id":"42","properties":{"creationDate":"2022-07-23T08:37:49Z","description":"1987-1989","title":"Renovatie ‘De Utrecht’"},"type":"Feature"}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"geometry": {
+				"coordinates": [
+					5.972587,
+					50.888429,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "1",
+			"properties": {
+				"Naam": "Kantoorgebouw"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.648686,
+					51.807147,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "2",
+			"properties": {
+				"Naam": "Kantoorgebouw EGM"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.74972,
+					51.5838,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "3",
+			"properties": {
+				"Naam": "Hoofdkantoor Suikerunie"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					5.978575,
+					51.985536,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "4",
+			"properties": {
+				"Naam": "Kantoorgebouw V.O.M."
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					5.00897,
+					52.336685,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "5",
+			"properties": {
+				"Naam": "Uyllanderbrug"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					5.01595,
+					52.346647,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "6",
+			"properties": {
+				"Naam": "Benno Premselabrug"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					5.416722,
+					52.122759,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "7",
+			"properties": {
+				"Naam": "Expositiegebouw Pon Beheer"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					5.006515,
+					52.160836,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "8",
+			"properties": {
+				"Naam": "Dr. A. Heijn-gebouw, Universiteit Nyenrode"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.748095,
+					52.086247,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "9",
+			"properties": {
+				"Periode": "1995-1998",
+				"Naam": "Gemeentehuis Bodegraven"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.74763,
+					52.304153,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "10",
+			"properties": {
+				"Naam": "Hoofdkantoor NV Luchthaven Schiphol"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.2779,
+					52.110872,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "11",
+			"properties": {
+				"Naam": "Museum Beelden aan Zee"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.524446,
+					51.915908,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "12",
+			"properties": {
+				"Periode": "1990-1992",
+				"Naam": "M-gebouw, Erasmus Universiteit"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.526775,
+					51.916532,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "13",
+			"properties": {
+				"Periode": "1987-1991",
+				"Naam": "L-gebouw, Erasmus Universiteit"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					5.54478,
+					52.331545,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "14",
+			"properties": {
+				"Periode": "1983-1987",
+				"Naam": "Raadhuis Zeewolde"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.490073,
+					51.916906,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "15",
+			"properties": {
+				"Periode": "1982-1988",
+				"Naam": "Kantoorgebouw Willemswerf"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.474049,
+					51.920167,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "16",
+			"properties": {
+				"Periode": "1982-1988",
+				"Naam": "Schouwburg Rotterdam"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					5.30469,
+					51.68658,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "17",
+			"properties": {
+				"Naam": "Nieuwbouw en renovatie Noordbrabants Museum"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.885292,
+					52.359999,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "18",
+			"properties": {
+				"Periode": "1981-1995",
+				"Naam": "Renovatie Rijksmuseum"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.482067,
+					51.91761,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "19",
+			"properties": {
+				"Periode": "1981-1986",
+				"Naam": "Maritiem Museum"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.281046,
+					52.088811,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "20",
+			"properties": {
+				"Periode": "1977-1985",
+				"Naam": " Museon en Omniversum"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.485267,
+					51.921813,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "21",
+			"properties": {
+				"Periode": "1976-1981",
+				"Naam": "Aanbouw Laurenskerk"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.437701,
+					51.921605,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "22",
+			"properties": {
+				"Periode": "1960-63",
+				"Naam": "Verkeersbrug Beukelsdijk"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.85798,
+					52.3038,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "23",
+			"properties": {
+				"Naam": "Cobra Museum"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.163761,
+					51.957241,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "24",
+			"properties": {
+				"Naam": "Maeslantkering"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.48163,
+					51.918498,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "25",
+			"properties": {
+				"Naam": "Kantoorgebouw Robeco"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.870412,
+					52.35011,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "26",
+			"properties": {
+				"Naam": "J.P. Morgan Bank"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					5.817449,
+					52.095835,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "27",
+			"properties": {
+				"Naam": "Uitbreiding Kröller-Müller Museum"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.772075,
+					51.761603,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "28",
+			"properties": {
+				"Naam": "Waterwinbedrijf Petrusplaat"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.393575,
+					51.835794,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "29",
+			"properties": {
+				"Naam": "Drinkwaterproduktiebedrijf Berenplaat"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					5.92678,
+					52.67547,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "30",
+			"properties": {
+				"Naam": "Duits-Nederlandse Windtunnel"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					5.30469,
+					51.68658,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "31",
+			"properties": {
+				"Naam": "Noordbrabants Museum"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.53851,
+					51.90639,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "32",
+			"properties": {
+				"Naam": "Drinkwaterproduktiebedrijf Kralingen"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.56832,
+					51.90851,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "33",
+			"properties": {
+				"Naam": "Scheepsbouwloods van der Giessen-De Noord"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					5.465372,
+					51.417159,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "34",
+			"properties": {
+				"Naam": "Watertoren"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					3.711523,
+					51.641007,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "35",
+			"properties": {
+				"Periode": "1980-1986",
+				"Naam": "Dienstgebouw Stormvloedkering Oosterschelde"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.954583,
+					52.323867,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "36",
+			"properties": {
+				"Periode": "1987-1990",
+				"Naam": "Kantoorgebouw Randstad"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					5.935002,
+					52.191851,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "37",
+			"properties": {
+				"Naam": "Kantoren Wegener"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.483947,
+					52.046256,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "38",
+			"properties": {
+				"Naam": "Hoofdkantoor GUO"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.875996,
+					52.317556,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "39",
+			"properties": {
+				"Periode": "Renovatie Koen van Velsen",
+				"Naam": "Hoofdkantoor Woonzorg"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					6.564334,
+					52.994426,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "40",
+			"properties": {
+				"Periode": "1991-1995",
+				"Naam": "Arrondissementsrechtbank Assen"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					3.683132,
+					51.607858,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "41",
+			"properties": {
+				"Periode": "1978-1986",
+				"Naam": "Stormvloedkering Oosterschelde"
+			},
+			"type": "Feature"
+		},
+		{
+			"geometry": {
+				"coordinates": [
+					4.478338,
+					51.921701,
+					0
+				],
+				"type": "Point"
+			},
+			"id": "42",
+			"properties": {
+				"Periode": "1987-1989",
+				"Naam": "Renovatie ‘De Utrecht’"
+			},
+			"type": "Feature"
+		}
+	]
+}
