@@ -10,7 +10,7 @@ Bewerken:
 
 Embedden:
 
-`<script src="https://raw.githubusercontent.com/sammeltassen/quist-kaart/main/quist.geojson"></script>`
+`<script src="https://embed.github.com/view/geojson/sammeltassen/quist-kaart/main/quist.geojson"></script>`
 
 Opmerkingen:
 - De kaart is onvolledig: van verschillende gebouwen is de locatie (nog) niet vastgesteld. Dit geldt bijvoorbeeld voor gesloopte gebouwen en woonhuizen.
