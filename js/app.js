@@ -6,7 +6,7 @@ var map = L.map('map').setView([52.18, 5.32], 7);
 
 L.tileLayer('https://tile.thunderforest.com/atlas/{z}/{x}/{y}.png?apikey=3fa7344330944395b8886eac9e3f214a', {
     maxZoom: 19,
-    attribution: 'Mapping Quist | <a href="https://github.com/sammeltassen/mapping-quist">Source repository</a> | Basemap: © OpenStreetMap'
+    attribution: '<a href="https://github.com/sammeltassen/mapping-quist">Source repository</a> | Basemap: © OpenStreetMap'
 }).addTo(map);
 
 // Maps.stamen.com
