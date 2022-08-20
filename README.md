@@ -82,12 +82,11 @@ Renovations and extensions:
 
 The following projects have been combined in a single feature:
 
-Wegener:
-- Rotatiehal Wegener, Apeldoorn (1980-1983)
-- Uitgeverijhuis Wegener NV, Apeldoorn (1990-1992)
-- Central kantoor Wegener NV, Apeldoorn (1992-1994)
-
-Zeewolde:
-- Raadhuis, politiebureau, brandweerkazerne, Zeewolde (1983-1987)
-- Politiebureau, Zeewolde (1990-1992)
-- Uitbreiding Raadhuis, Zeewolde (1994-1997)
+- Wegener, Apeldoorn
+  - Rotatiehal Wegener, Apeldoorn (1980-1983)
+  - Uitgeverijhuis Wegener NV, Apeldoorn (1990-1992)
+  - Central kantoor Wegener NV, Apeldoorn (1992-1994)
+- Raadhuis, Zeewolde
+  - Raadhuis, politiebureau, brandweerkazerne, Zeewolde (1983-1987)
+  - Politiebureau, Zeewolde (1990-1992)
+  - Uitbreiding Raadhuis, Zeewolde (1994-1997)
