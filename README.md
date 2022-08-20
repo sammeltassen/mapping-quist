@@ -14,8 +14,11 @@ Embedding the map:
 
 TODO:
 - Add missing projects
+- Add satellite view
+- Add links to Google Maps
 - Add building type property (office, cultural, interior, etc)
 - Add building history (renovated, demolished, etc)
+- Add property for historical names of buildings
 
 The map is based on the information provided in: Auke van der Woud (2008) _Wim Quist. De magie van de ratio_ (Maastricht: Pale Pink Publishers), pp. 621-623.
 
