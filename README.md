@@ -13,10 +13,11 @@ Embedding the map:
 ```
 
 TODO:
-- Add missing projects
+- Add missing projects (see list below) + projects after 2008
 - Add satellite view
 - Add links to Google Maps
 - Add building type property (office, cultural, interior, etc)
+  - Change marker color based on type
 - Add building history (renovated, demolished, etc)
 - Add property for historical names of buildings
 
@@ -56,6 +57,7 @@ Interior and furniture design:
 - Meubels werkvertrekken H.M. Koningin Beatrix en Z.K.H. Prins Claus, Paleis Noordeinde 's-Gravenhage (1982-1984)
 - Inrichting hal, vertrekken Raad van Bestuur en restaurant in kantoorgebouw Willemswerf, Rotterdam (1985-1988)
 - Inrichting kantoor Nauta Dutilh, Rotterdam (1990-1991)
+- Interieurverbouwing kantoor Nauta Dutilh, Rotterdam (1994)
 - Meubelen Museon, 's-Gravenhage (1995-1997)
 - Algemene interieuradviezen, Rijksmuseum Kröller-Müller, Otterlo (1995-1998)
 - Nieuwe kantoormeubellijn 1030 en 1035, N.V. Koninklijke Ahrend (1996-1999)
@@ -64,14 +66,16 @@ Interior and furniture design:
 Exhibition design:
 - Schilderijlijsten (Vincent van Gogh) Rijksmuseum Kröller-Müller, Otterlo (1987-1989)
 - Inrichting tentoonstelling 'Rembrandt, de meester en zijn werkplaats', Rijksmuseum, Amsterdam (1991)
+- Inrichting tentoonstelling 'Zeventiende Eeuwse Portretten', Kunsthal Rotterdam (1994)
 - Inrichting tentoonstelling 'G.H. Breitner', Kunsthal Rotterdam (1995)
 - Gastcurator en vormgeving inrichting tentoonstelling 'Hemelse Beelden uit Oost en West', Museum Beelden aan Zee, Scheveningen (2008)
 
 Renovations and extensions:
+- Buitenmuseum Maritiem Museum 'Prins Hendrik', Rotterdam (1984-1987)
 - Laboratorium Waterwinningbedrijf Petrusplaat, Werkendam (1990-1992)
 - Reinwaterreservoir drinkwaterproductiebedrijf Berenplaat, Oud-Beijerland (1990-1992)
 - Renovate Zuidvleugel Rijksmuseum, Amsterdam (1992-1995)
-- Portiersloge ir. J.W. Topshuis, werkeiland Neeltje Jans, Zeeland (1993)  
+- Portiersloge ir. J.W. Topshuis, werkeiland Neeltje Jans, Zeeland (1993)
 - Nieuwe ingang ir. J.W. Topshuis, werkeiland Neeltje Jans, Zeeland (1996-1999)
 - Glaswand Museum Beelden aan Zee, Scheveningen (1997-1998)
 - Wijziging hoofdingang Rijksmuseum Kröller-Müller, Otterlo (1997-1998)
