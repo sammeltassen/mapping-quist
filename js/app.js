@@ -20,14 +20,23 @@ L.tileLayer('https://tile.thunderforest.com/atlas/{z}/{x}/{y}.png?apikey=3fa7344
 
 // Marker styling
 
-// var geojsonMarkerOptions = {
-//     radius: 8,
-//     fillColor: "#00F",
-//     color: "#000",
-//     weight: 1,
-//     opacity: 1,
-//     fillOpacity: 0
-// };
+var geojsonMarkerRed = {
+    radius: 10,
+    fillColor: "#F00",
+    color: "#F00",
+    weight: 2,
+    opacity: 1,
+    fillOpacity: 1
+};
+
+var geojsonMarkerBlue = {
+    radius: 10,
+    fillColor: "#00F",
+    color: "#00F",
+    weight: 2,
+    opacity: 1,
+    fillOpacity: 1
+};
 
 // Popup contents
 
@@ -46,7 +55,10 @@ async function addGeoJson() {
     const data = await response.json();
     L.geoJson(data, {
         pointToLayer: function (feature, latlng) {
-            return L.marker(latlng);
+            if (feature.properties.Gesloopt)
+                return L.circleMarker(latlng, geojsonMarkerRed);
+            else
+                return L.circleMarker(latlng, geojsonMarkerBlue);
         },
         onEachFeature: onEachFeature
     }).addTo(map);

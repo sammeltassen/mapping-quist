@@ -285,7 +285,8 @@
       "id": "18",
       "properties": {
         "Periode": "1981-1995",
-        "Naam": "Renovatie Rijksmuseum"
+        "Naam": "Renovatie Rijksmuseum",
+        "Gesloopt": "Ja"
       },
       "type": "Feature"
     },
