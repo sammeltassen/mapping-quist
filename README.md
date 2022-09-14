@@ -12,15 +12,7 @@ Embedding the map:
 <iframe src="https://sammeltassen.nl/mapping-quist/" title="Mapping Quist" width="100%" height="300" style="border:none;"></iframe>
 ```
 
-TODO:
-- Add missing projects (see list below) + projects after 2008
-- Add satellite view
-- Add links to Google Maps
-- Add building type property (office, cultural, interior, etc)
-  - Change marker color based on type
-- Add building history (renovated, demolished, etc)
-- Add property for historical names of buildings
-- Use building outline rather than point to indicate project
+## Missing projects
 
 The map is based on the information provided in: Auke van der Woud (2008) _Wim Quist. De magie van de ratio_ (Maastricht: Pale Pink Publishers), pp. 621-623.
 
@@ -91,3 +83,13 @@ The following projects have been combined in a single feature:
   - Raadhuis, politiebureau, brandweerkazerne, Zeewolde (1983-1987)
   - Politiebureau, Zeewolde (1990-1992)
   - Uitbreiding Raadhuis, Zeewolde (1994-1997)
+
+## To do
+- Add missing projects (see list above) + projects after 2008
+- Add satellite view
+- Add links to Google Maps
+- Add building type property (office, cultural, interior, etc)
+  - Change marker color based on type
+- Add building history (renovated, demolished, etc)
+- Add property for historical names of buildings
+- Use building outline rather than point to indicate project
